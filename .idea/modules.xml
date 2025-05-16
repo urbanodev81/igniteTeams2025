@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/igniteteams.iml" filepath="$PROJECT_DIR$/.idea/igniteteams.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/igniteTeams2025.iml" filepath="$PROJECT_DIR$/.idea/igniteTeams2025.iml" />
+>>>>>>> 69e1cdf42d57efb277a7a8710dd3d684127619b7
     </modules>
   </component>
 </project>
